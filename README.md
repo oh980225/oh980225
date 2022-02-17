@@ -8,7 +8,7 @@
 
 ## 😊 About Me 😊
 <a href="https://velog.io/@l0_0l"><img src="https://img.shields.io/badge/velog-26C394?style=for-the-badge&logo=v&logoColor=white&link=https://velog.io/@l0_0l"/></a> 
-<a href="https://www.notion.so/ae29ec8e45ac47acb3691b2a08ce11ea"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white&link=https://velog.io/@l0_0l"/></a>
+<a href="https://pacific-jeep-805.notion.site/db8ec661bb1c4c65a988c7a25bde0939"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white&link=https://velog.io/@l0_0l"/></a>
 <br>
 <br>
 
