@@ -12,7 +12,6 @@
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github.com/oh980225/github-stats-transparent/blob/output/generated/overview.svg) ![Top Langs](https://github.com/oh980225/github-stats-transparent/blob/output/generated/languages.svg)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oh980225)](https://solved.ac/oh980225)
 <br/>
 </div>
